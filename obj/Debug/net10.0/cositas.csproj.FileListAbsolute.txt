@@ -1,0 +1,14 @@
+C:\Users\banel\OneDrive\Escritorio\cositas\bin\Debug\net10.0\cositas.exe
+C:\Users\banel\OneDrive\Escritorio\cositas\bin\Debug\net10.0\cositas.deps.json
+C:\Users\banel\OneDrive\Escritorio\cositas\bin\Debug\net10.0\cositas.runtimeconfig.json
+C:\Users\banel\OneDrive\Escritorio\cositas\bin\Debug\net10.0\cositas.dll
+C:\Users\banel\OneDrive\Escritorio\cositas\bin\Debug\net10.0\cositas.pdb
+C:\Users\banel\OneDrive\Escritorio\cositas\obj\Debug\net10.0\cositas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\banel\OneDrive\Escritorio\cositas\obj\Debug\net10.0\cositas.AssemblyInfoInputs.cache
+C:\Users\banel\OneDrive\Escritorio\cositas\obj\Debug\net10.0\cositas.AssemblyInfo.cs
+C:\Users\banel\OneDrive\Escritorio\cositas\obj\Debug\net10.0\cositas.csproj.CoreCompileInputs.cache
+C:\Users\banel\OneDrive\Escritorio\cositas\obj\Debug\net10.0\cositas.dll
+C:\Users\banel\OneDrive\Escritorio\cositas\obj\Debug\net10.0\refint\cositas.dll
+C:\Users\banel\OneDrive\Escritorio\cositas\obj\Debug\net10.0\cositas.pdb
+C:\Users\banel\OneDrive\Escritorio\cositas\obj\Debug\net10.0\cositas.genruntimeconfig.cache
+C:\Users\banel\OneDrive\Escritorio\cositas\obj\Debug\net10.0\ref\cositas.dll
